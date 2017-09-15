@@ -1,0 +1,22 @@
+{
+  "name": "iphone-x-bar",
+  "version": "1.0.0",
+  "description": "Gorgeus iPhone X bar",
+  "main": "iphone-x-bar.css",
+  "author": {
+    "name": "Pavel Frankov",
+    "email": "pavel@frankov.ru"
+  },
+  "license": "MIT",
+  "style": "greedo.css",
+  "keywords": [
+    "iphone",
+    "iphone x",
+    "bar",
+    "innovations",
+    "revolutionary"
+  ],
+  "files": [
+    "iphone-x-bar.css"
+  ]
+}
