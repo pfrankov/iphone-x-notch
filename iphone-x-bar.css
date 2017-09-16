@@ -10,21 +10,6 @@
 		width: 3.76vw;
 		height: 54.34vh;
 		background: #000;
-		border-radius: 0 2vw 2vw 0;
-	}
-}
-@media screen and (orientation: portrait) {
-	body:after {
-		content: '';
-		position: fixed;
-		left: 0;
-		right: 0;
-		top: 0;
-		margin: 0 auto;
-		z-index: 999999999999999999;
-		width: 54.34vw;
-		height: 3.76vh;
-		background: #000;
-		border-radius: 0 0 2vw 2vw;
+		border-radius: 0 3vw 3vw 0;
 	}
 }
