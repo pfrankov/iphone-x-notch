@@ -18,12 +18,12 @@ https://chrome.google.com/webstore/detail/feddebdpegbgedcfbgkncgdodplhmjpd
 
 #### CDN
 ```html
-<link rel="stylesheet" href="//cdn.rawgit.com/pfrankov/iphone-x-bar/v2.0.0/iphone-x-bar.css"/>
+<link rel="stylesheet" href="//cdn.rawgit.com/pfrankov/iphone-x-bar/v2.1.0/iphone-x-bar.css"/>
 ```
 
 #### Bookmarklet
 ```js
-javascript:(link=>{link.rel='stylesheet';link.href='//cdn.rawgit.com/pfrankov/iphone-x-bar/v2.0.0/iphone-x-bar.css';document.body.appendChild(link)})(document.createElement('link'))
+javascript:(link=>{link.rel='stylesheet';link.href='//cdn.rawgit.com/pfrankov/iphone-x-bar/v2.1.0/iphone-x-bar.css';document.body.appendChild(link)})(document.createElement('link'))
 ```
 
 #### Import to your code

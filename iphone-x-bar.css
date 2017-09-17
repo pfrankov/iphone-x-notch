@@ -9,7 +9,8 @@
 		z-index: 999999999999999999;
 		width: 3.76vw;
 		height: 54.34vh;
-		background: #000;
-		border-radius: 0 3vw 3vw 0;
+		background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MS4yMiAzNzAuMzIiPjxwYXRoIGQ9Ik0wLDcuNzVWMzcwLjMyYTcuNzUsNy43NSwwLDAsMSw3Ljc1LTcuNzVIMTNjMTgsMCwzOC4yNy0xMi44MSwzOC4yNy00Ni4zOXYtMjYyQzUxLjIyLDIwLjU2LDMwLjkzLDcuNzUsMTMsNy43NUg3Ljc1QTcuNzUsNy43NSwwLDAsMSwwLDBaIi8+PC9zdmc+);
+		background-size: 3.76vw 54.34vh;
+		background-repeat: no-repeat;
 	}
 }
