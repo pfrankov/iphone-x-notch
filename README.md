@@ -4,7 +4,7 @@
 ![](http://img.badgesize.io/pfrankov/iphone-x-bar/master/iphone-x-bar.css)
 
 
-![iphone-x-bar](https://user-images.githubusercontent.com/584632/30505297-748259a0-9a7c-11e7-8ccd-fad6ca650c33.gif)
+![iphone-x-bar](https://user-images.githubusercontent.com/584632/30524768-466deb06-9c02-11e7-86f0-dcfe9ca49eeb.gif)
 
 ## Installation
 ```bash
