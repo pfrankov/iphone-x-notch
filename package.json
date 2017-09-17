@@ -1,24 +1,25 @@
 {
-  "name": "iphone-x-bar",
+  "name": "iphone-x-notch",
   "version": "2.1.0",
-  "description": "Gorgeus iPhone X bar",
-  "main": "iphone-x-bar.css",
+  "description": "Gorgeus iPhone X notch",
+  "main": "iphone-x-notch.css",
   "author": {
     "name": "Pavel Frankov",
     "email": "pavel@frankov.ru"
   },
   "license": "MIT",
-  "style": "greedo.css",
+  "style": "iphone-x-notch.css",
   "keywords": [
     "iphone",
     "iphone x",
     "bar",
+    "notch",
     "innovations",
     "revolutionary",
     "simplicity",
     "amazing"
   ],
   "files": [
-    "iphone-x-bar.css"
+    "iphone-x-notch.css"
   ]
 }
