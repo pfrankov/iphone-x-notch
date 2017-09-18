@@ -11,9 +11,6 @@
 npm install --save iphone-x-notch
 ``` 
 
-## Chrome extension
-https://chrome.google.com/webstore/detail/feddebdpegbgedcfbgkncgdodplhmjpd
-
 ## Usage
 
 #### CDN
@@ -34,3 +31,9 @@ import "iphone-x-notch";
 // CommonJS
 require("iphone-x-notch");
 ``` 
+
+### Chrome extension
+https://chrome.google.com/webstore/detail/feddebdpegbgedcfbgkncgdodplhmjpd
+
+### Android app
+https://github.com/idoideas/XOutOf10
