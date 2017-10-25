@@ -15,12 +15,12 @@ npm install --save iphone-x-notch
 
 #### CDN
 ```html
-<link rel="stylesheet" href="//cdn.rawgit.com/pfrankov/iphone-x-notch/v2.1.0/iphone-x-notch.css"/>
+<link rel="stylesheet" href="//cdn.rawgit.com/pfrankov/iphone-x-notch/v2.2.0/iphone-x-notch.css"/>
 ```
 
 #### Bookmarklet
 ```js
-javascript:(link=>{link.rel='stylesheet';link.href='//cdn.rawgit.com/pfrankov/iphone-x-notch/v2.1.0/iphone-x-notch.css';document.body.appendChild(link)})(document.createElement('link'))
+javascript:(link=>{link.rel='stylesheet';link.href='//cdn.rawgit.com/pfrankov/iphone-x-notch/v2.2.0/iphone-x-notch.css';document.body.appendChild(link)})(document.createElement('link'))
 ```
 
 #### Import to your code
